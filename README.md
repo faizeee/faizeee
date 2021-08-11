@@ -18,4 +18,4 @@ I Love nature🖼️ and natural environment.
 
 
 
-<p><small>Credits: <a href="https://www.jobhoney.io/blog/free-linkedin-banners" target="_blank">banner</a></small></p>
+<p><small><a href="https://www.jobhoney.io/blog/free-linkedin-banners" target="_blank">banner</a></small></p>
