@@ -14,4 +14,4 @@ I Love nature🖼️ and natural environment.
 - [Linkdin](https://www.linkedin.com/in/chfaizee)
 - [Facebook](https://www.facebook.com/faizeeeCh/)
 
-###### <small>Credits:<a href="https://www.jobhoney.io/blog/free-linkedin-banners">Banner</a></small>
+###### <small>Credits: <a href="https://www.jobhoney.io/blog/free-linkedin-banners" target="_blank">banner</a></small>
