@@ -5,7 +5,7 @@ I enjoy working with JS(Vanila, JQ, Vue),PHP(Laravel,Vanile) and CSS(BS,Tailwind
 I love to build and lead a team to success. I've been building & leading teams `since 2019`.
 I am trying realy hard to imporve myself and continuously learning. 
 ##### Something you may find intersting😄
-I am very adventurous🌄 and love terverling✈️. I am foodie 🍽️ and love eating and trying new recepies and oh yes i love sleeping😴 that i can enough sleep. 
+I am very adventurous🌄 and love terverling✈️. I am foodie 🍽️, i love eating and trying new recepies, `tea☕ is my love` and oh yes i love sleeping😴 that i can enough sleep. 
 I Love nature🖼️ and natural environment.
 
 #### 🔍You can find me on,
