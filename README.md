@@ -8,7 +8,7 @@ I am trying realy hard to imporve myself and continuously learning.
 I am very adventurous🌄 and love terverling✈️. I am foodie 🍽️ and love eating and trying new recepies and oh yes i love sleeping😴 that i can enough sleep. 
 I Love nature🖼️ and natural environment.
 
-#### Find🔍 me on,
+#### 🔍You can find me on,
 - [Twitter](https://twitter.com/_faizeee)
 - [Linkdin](https://www.linkedin.com/in/chfaizee)
 - [Facebook](https://www.facebook.com/faizeeeCh/)
