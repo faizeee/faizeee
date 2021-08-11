@@ -8,8 +8,9 @@ I love to build and lead a team to success. I've been building & leading teams `
 I am trying realy hard to imporve myself and continuously learning. 
 
 ##### Something you may find intersting😄
-I am very adventurous🌄 and love terverling✈️. I am foodie 🍽️, i love eating and trying new recepies, `tea☕ is my love` and oh yes i love sleeping😴
-I Love nature🖼️ and natural environment.
+I am very adventurous🌄 and i love terverling✈️. 
+I am foodie 🍽️, i love eating and trying new recepies, 
+ and oh yes `tea☕ is my love`.
 
 #### 🔍You can find me on,
 - [Twitter](https://twitter.com/_faizeee)
