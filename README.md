@@ -1,5 +1,5 @@
 ### Hi there, I'm Faizan,
-![index](https://user-images.githubusercontent.com/59387960/152359147-333d54b9-95db-445a-8c59-958f87a5c064.png)
+![index n](https://user-images.githubusercontent.com/59387960/152361225-59619d85-a72d-4cc6-a04c-b7ca6c29daf3.png)
 
 
 I am a `software engineer` who is passionate about developing new technologies and to be a part of the ever changing IT industry. I've been working as <b>`Full Stack Developer`</b> for more than 6 years. Currently working as a <b>`Project Leader`</b> [@mazajnet](https://github.com/mazajnet). 
