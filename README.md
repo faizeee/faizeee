@@ -3,7 +3,7 @@
 
 
 I am a `software engineer` who is passionate about developing new technologies and to be a part of the ever changing IT industry. I've been working as <b>`Full Stack Developer`</b> for more than 6 years. Currently working as a <b>`Project Leader`</b> [@mazajnet](https://github.com/mazajnet). 
-I enjoy working with JS(Vanilla, JQ, Vue),PHP(Laravel,Vanilla) and CSS(BS,Tailwind and Core) but Iam not limited to that languages are just and other tool. 
+I enjoy working with JS(Vanilla, JQ, Vue),PHP(Laravel,Vanilla) and CSS(BS,Tailwind and Core) but I'm not limited to that, Languages are just tools. 
 I love to build and lead a team to success. I've been building & leading teams `since 2019`.
 I am trying relay hard to improve myself and continuously learning. 
 
