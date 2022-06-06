@@ -16,3 +16,5 @@ I am foodie 🍽️, i love eating and trying new recepies,
 - [Twitter](https://twitter.com/_faizeee)
 - [Linkdin](https://www.linkedin.com/in/chfaizee)
 - [Facebook](https://www.facebook.com/faizeeeCh/)
+
+[![Faizan Shakir's github activity graph](https://activity-graph.herokuapp.com/graph?username=faizeee&bg_color=0b2438&color=ffff&line=ff6b6b&point=ff6b6b&hide_border=true)](https://github.com/faizeee)
