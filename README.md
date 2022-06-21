@@ -20,8 +20,8 @@ I am foodie 🍽️, i love eating and trying new recepies,
 <br>
 <h2 align="left" id="tech">Favorite Tech</h2>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faizeee&show_icons=true&count_private=true&include_all_commits=true&bg_color=0b2438&text_color=ffff&&title_color=ff6b6b&icon_color=ff6b6b&hide_border=true
-)](https://github.com/faizeee)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faizeee&show_icons=true&count_private=true&include_all_commits=true&bg_color=0b2438&text_color=ffff&&title_color=ff6b6b&icon_color=ff6b6b&hide_border=true
+)](https://github.com/faizeee) -->
 
 
 [![Faizan Shakir's github activity graph](https://activity-graph.herokuapp.com/graph?username=faizeee&bg_color=0b2438&color=ffff&line=ff6b6b&point=ff6b6b&hide_border=true)](https://github.com/faizeee)
