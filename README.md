@@ -13,8 +13,8 @@ I am foodie 🍽️, i love eating and trying new recepies,
  and oh yes `tea☕ is my love`.
 
 #### 🔍You can find me on,
-| <a href="https://www.linkedin.com/in/faizeee"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>  | <a href="https://twitter.com/_faizeee"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>|
-| ------------- | ------------- |
+| <a href="https://www.linkedin.com/in/faizeee"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>  | <a href="https://twitter.com/_faizeee"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a> | <a href="https://twitter.com/faizeeeCh"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a> |
+| ------------- | ------------- |  ------------- |
 - 
 [Twitter](https://twitter.com/_faizeee)
 - [Linkdin](https://www.linkedin.com/in/chfaizee)
