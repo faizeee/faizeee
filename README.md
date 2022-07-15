@@ -13,15 +13,19 @@ I am foodie 🍽️, i love eating and trying new recepies,
  and oh yes `tea☕ is my love`.
 
 #### 🔍You can find me on,
-- [Twitter](https://twitter.com/_faizeee)
+| <a href="https://www.linkedin.com/in/faizeee"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>  | <a href="https://twitter.com/_faizeee"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>|
+| ------------- | ------------- |
+- 
+[Twitter](https://twitter.com/_faizeee)
 - [Linkdin](https://www.linkedin.com/in/chfaizee)
 - [Facebook](https://www.facebook.com/faizeeeCh/)
-
-<!-- <br>
+<br>
 <h2 align="left" id="tech">Favorite Tech</h2>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faizeee&show_icons=true&count_private=true&include_all_commits=true&bg_color=0b2438&text_color=ffff&&title_color=ff6b6b&icon_color=ff6b6b&hide_border=true
-)](https://github.com/faizeee) -->
+| [![faizeee's GitHub stats](https://github-readme-stats.vercel.app/api?username=faizeee)](https://github.com/faizeee) | [![faizeee's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=faizeee&layout=compact&hide_border=true)](https://github.com/faizeee)|
+| ------------- | ------------- |
 
+<br>
+<h2 align="left" id="tech">My Activity</h2>
 
 [![Faizan Shakir's github activity graph](https://activity-graph.herokuapp.com/graph?username=faizeee&bg_color=0b2438&color=ffff&line=ff6b6b&point=ff6b6b&hide_border=true)](https://github.com/faizeee)
